@@ -26,27 +26,36 @@
  + [My Page 게시판 SQL 코드](https://github.com/Hijineee/LearningMachine/blob/main/src/main/resources/mapper/MyService.xml)
  
 <hr>
-## UI 
+	
+	
+## UI <br>
 - 관리자페이지 주요기능(1/4) <br>
 https://github.com/Hijineee/LearningMachine/blob/c8298dda9f8a715f64ebd40d4fa8a2bc7737117f/src/main/java/com/learning/Admin/Controller/PaymentController.java#L40
  
-![image](https://user-images.githubusercontent.com/101648395/186360563-66e393dd-0212-4a4d-9f4b-e28bd19774d1.png)
+![image](https://user-images.githubusercontent.com/101648395/186360563-66e393dd-0212-4a4d-9f4b-e28bd19774d1.png) <br>
 chart.js를 사용해서 월별 매출을 그래프화하여 구현 했고, 구매한 강좌수를 토대로 카테고리별로 원형그래프로 구현.
 
-![image](https://user-images.githubusercontent.com/101648395/186362987-c84aea74-ebba-404c-9f05-033dd81d6096.png)
+![image](https://user-images.githubusercontent.com/101648395/186366033-519aa9e5-edda-4f02-a9dd-330a49ccab11.png)<br>
 환불신청목록을 띄어 환불 승인 할 수 있는 페이지
-<hr><hr><hr><hr><hr>
+<br><br><br><br><br>
 
 
-- 관리자페이지 주요기능(2/4) <br>
++ 관리자페이지 주요기능(2/4) <br>
 https://github.com/Hijineee/LearningMachine/blob/49771483e6f490ddfc9b92263a5131126cf4aa2f/src/main/java/com/learning/Admin/Controller/AdminController.java#L331
 
 가입한 학생리스트를 보여주고 상세정보 확인 가능한 페이지.
 <br><br>
-![image](https://user-images.githubusercontent.com/101648395/186361467-ff0ee0c5-fe17-4e9d-9265-7458b45b031e.png)
-**학생리스트**
+![image](https://user-images.githubusercontent.com/101648395/186361467-ff0ee0c5-fe17-4e9d-9265-7458b45b031e.png)<br>
+
 <br>
-![image](https://user-images.githubusercontent.com/101648395/186361968-0f6e5785-0ee7-4c24-8336-e6922ed083cd.png)
-**학생상세페이지**
+![image](https://user-images.githubusercontent.com/101648395/186366530-ecb60782-b8d9-43b1-8789-a5efa80b0892.png)<br>
 <br><br><br><br><br>
-- 관리자페이지 주요기능(3/4) <br>
++ 관리자페이지 주요기능(3/4) <br>
+https://github.com/Hijineee/LearningMachine/blob/559f3706da2092a96202fc1eb22e6e6899fb7064/src/main/java/com/learning/Admin/Controller/AdminController.java#L240 
+
+
+강사관리 페이지로서, 강사로 신청들어온 내역이 있다면 승인및 거부 를 처리하고 강사들이 올릴 강의를 승인 및 거부를 하는 페이지. <br>
+**강사관리페이지** <br>
+![image](https://user-images.githubusercontent.com/101648395/186366192-36e5f5b5-f451-4b4f-bb95-01543e8359b2.png)
+	
+
