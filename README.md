@@ -54,8 +54,9 @@ https://github.com/Hijineee/LearningMachine/blob/49771483e6f490ddfc9b92263a51311
 https://github.com/Hijineee/LearningMachine/blob/559f3706da2092a96202fc1eb22e6e6899fb7064/src/main/java/com/learning/Admin/Controller/AdminController.java#L240 
 
 
-강사관리 페이지로서, 강사로 신청들어온 내역이 있다면 승인및 거부 를 처리하고 강사들이 올릴 강의를 승인 및 거부를 하는 페이지. <br>
-**강사관리페이지** <br>
+강사관리 페이지로서, 강사로 신청들어온 내역이 있다면 승인및 거부 를 처리하고 강사들이 올릴 강의를 승인 및 거부를 하는 페이지. <br><br><br>
+	
+**강사신청내역 페이지** <br>
 ![image](https://user-images.githubusercontent.com/101648395/186366192-36e5f5b5-f451-4b4f-bb95-01543e8359b2.png)
 	
 
