@@ -20,6 +20,6 @@
 
 - 관리자페이지 주요기능(1/4) <hr>
 코드
-++[매출관리] (https://github.com/Hijineee/LearningMachine/blob/c8298dda9f8a715f64ebd40d4fa8a2bc7737117f/src/main/java/com/learning/Admin/Controller/PaymentController.java#L40)
+ >[매출관리] (https://github.com/Hijineee/LearningMachine/blob/c8298dda9f8a715f64ebd40d4fa8a2bc7737117f/src/main/java/com/learning/Admin/Controller/PaymentController.java#L40
 ![image](https://user-images.githubusercontent.com/101648395/186355352-7dea7dd4-3a9e-4a37-9df2-8879187a94d4.png)
 
