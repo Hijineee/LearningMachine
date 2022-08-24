@@ -29,7 +29,7 @@
 	
 	
 ## UI <br>
-- 관리자페이지 주요기능(1/4) <br>
++ 관리자페이지 주요기능(1/4) <br>
 https://github.com/Hijineee/LearningMachine/blob/c8298dda9f8a715f64ebd40d4fa8a2bc7737117f/src/main/java/com/learning/Admin/Controller/PaymentController.java#L40
  
 ![image](https://user-images.githubusercontent.com/101648395/186360563-66e393dd-0212-4a4d-9f4b-e28bd19774d1.png) <br>
@@ -44,6 +44,7 @@ chart.js를 사용해서 월별 매출을 그래프화하여 구현 했고, 구�
 https://github.com/Hijineee/LearningMachine/blob/49771483e6f490ddfc9b92263a5131126cf4aa2f/src/main/java/com/learning/Admin/Controller/AdminController.java#L331
 
 >가입한 학생리스트를 보여주고 상세정보 확인 가능한 페이지.
+
 <br><br>
 ![image](https://user-images.githubusercontent.com/101648395/186361467-ff0ee0c5-fe17-4e9d-9265-7458b45b031e.png)<br>
 
@@ -54,7 +55,6 @@ https://github.com/Hijineee/LearningMachine/blob/49771483e6f490ddfc9b92263a51311
 	
 + 관리자페이지 주요기능(3/4) <br>
 https://github.com/Hijineee/LearningMachine/blob/559f3706da2092a96202fc1eb22e6e6899fb7064/src/main/java/com/learning/Admin/Controller/AdminController.java#L240 
-
 
 >강사관리 페이지로서, 강사로 신청들어온 내역이 있다면 승인및 거부 를 처리하고 강사들이 올릴 강의를 승인 및 거부를 하는 페이지. <br><br><br>
 	
@@ -71,4 +71,20 @@ https://github.com/Hijineee/LearningMachine/blob/559f3706da2092a96202fc1eb22e6e6
 	
 <br><br><br><br><br>	
 + 관리자페이지 주요기능(4/4) <br>
+>공지사항 / 자유게시판 관리 페이지
+
+![image](https://user-images.githubusercontent.com/101648395/186373337-7fe845cc-b7a2-4acf-97b0-e65293358662.png)<br>
+>공지사항을 쓸수 있으며, 자유게시판에 부적절한 글이 올라온 경우 삭제 가능하도록 구현.
+
+<br><br><br><br><br>
++ 커뮤니티페이지 / MyPage 기능 <br>
+https://github.com/Hijineee/LearningMachine/blob/5347bde42e49821ca32c889745463b9db6877360/src/main/java/com/learning/Common/Contoller/HomeController.java#L132
+<br>
+![image](https://user-images.githubusercontent.com/101648395/186374407-ea152216-ec4a-41e7-81f0-01c1eb8a8aa7.png)
+
+>Q&A게시판으로  강의 질문게시글을 카테고리별로 볼 수 있음.<br>
+![image](https://user-images.githubusercontent.com/101648395/186374782-8411c50b-f9ef-432f-9678-5b18d86ee084.png)
+>Q&A클릭 시 상세보기 화면 구현. <br>
+
+
 
