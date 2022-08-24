@@ -59,6 +59,10 @@ https://github.com/Hijineee/LearningMachine/blob/559f3706da2092a96202fc1eb22e6e6
 강사관리 페이지로서, 강사로 신청들어온 내역이 있다면 승인및 거부 를 처리하고 강사들이 올릴 강의를 승인 및 거부를 하는 페이지. <br><br><br>
 	
 **강사신청내역 페이지** <br>
-![image](https://user-images.githubusercontent.com/101648395/186366192-36e5f5b5-f451-4b4f-bb95-01543e8359b2.png)
+![image](https://user-images.githubusercontent.com/101648395/186366192-36e5f5b5-f451-4b4f-bb95-01543e8359b2.png) <br><br><br>
+	
+**강의 카테고리 관리 페이지**
+![image](https://user-images.githubusercontent.com/101648395/186370308-11545e34-b1aa-4de2-a0ec-7bd4f72d0647.png)
+>Ajax를 이용하여 카테고리 추가, 삭제 구현
 	
 
