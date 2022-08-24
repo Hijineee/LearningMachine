@@ -20,13 +20,10 @@
 ![1](https://user-images.githubusercontent.com/101648395/186351569-35c71eda-e1ae-4b5f-85d9-0647551676db.png)
  
  **SQL코드** <br>
- [관리자게시판 SQL 코드](https://github.com/Hijineee/LearningMachine/blob/main/src/main/resources/mapper/Admin.xml)
- [관리자 매출 SQL 코드]
- (https://github.com/Hijineee/LearningMachine/blob/main/src/main/resources/mapper/Payment.xml)
- [커뮤니티 게시판 SQL 코드]
- (https://github.com/Hijineee/LearningMachine/blob/main/src/main/resources/mapper/Community.xml)
- [My Page 게시판 SQL 코드]
- (https://github.com/Hijineee/LearningMachine/blob/main/src/main/resources/mapper/MyService.xml)
+ +[관리자게시판 SQL 코드](https://github.com/Hijineee/LearningMachine/blob/main/src/main/resources/mapper/Admin.xml)
+ +[관리자 매출 SQL 코드](https://github.com/Hijineee/LearningMachine/blob/main/src/main/resources/mapper/Payment.xml)
+ +[커뮤니티 게시판 SQL 코드](https://github.com/Hijineee/LearningMachine/blob/main/src/main/resources/mapper/Community.xml)
+ +[My Page 게시판 SQL 코드](https://github.com/Hijineee/LearningMachine/blob/main/src/main/resources/mapper/MyService.xml)
  
 <hr>
 - 관리자페이지 주요기능(1/4) <br>
