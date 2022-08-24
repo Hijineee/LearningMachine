@@ -50,6 +50,8 @@ https://github.com/Hijineee/LearningMachine/blob/49771483e6f490ddfc9b92263a51311
 <br>
 ![image](https://user-images.githubusercontent.com/101648395/186366530-ecb60782-b8d9-43b1-8789-a5efa80b0892.png)<br>
 <br><br><br><br><br>
+	
+	
 + 관리자페이지 주요기능(3/4) <br>
 https://github.com/Hijineee/LearningMachine/blob/559f3706da2092a96202fc1eb22e6e6899fb7064/src/main/java/com/learning/Admin/Controller/AdminController.java#L240 
 
