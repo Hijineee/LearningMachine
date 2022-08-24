@@ -60,11 +60,15 @@ https://github.com/Hijineee/LearningMachine/blob/559f3706da2092a96202fc1eb22e6e6
 	
 **강사신청내역 페이지** <br>
 ![image](https://user-images.githubusercontent.com/101648395/186366192-36e5f5b5-f451-4b4f-bb95-01543e8359b2.png) <br><br><br>
-	
+
+**강의신청내역 페이지**<br>
+![image](https://user-images.githubusercontent.com/101648395/186370925-a07b3237-ede0-4d6d-b077-8fb90a8df163.png) <br><br><br>
+>신청된 강의를 상세확인하며, 승인및 거부가 가능하도록 함.
+
 **강의 카테고리 관리 페이지**
 ![image](https://user-images.githubusercontent.com/101648395/186370308-11545e34-b1aa-4de2-a0ec-7bd4f72d0647.png)
 >Ajax를 이용하여 카테고리 추가, 삭제 구현
 	
 <br><br><br><br><br>	
 + 관리자페이지 주요기능(4/4) <br>
-![image](https://user-images.githubusercontent.com/101648395/186370925-a07b3237-ede0-4d6d-b077-8fb90a8df163.png)
+
