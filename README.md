@@ -16,7 +16,7 @@
 ![index](https://user-images.githubusercontent.com/101648395/182089931-e03b4948-a361-4a54-9f7f-2a7b2f639360.png)
 
 ## 서비스 기획 및 방향성 설계
-	>  고품질의 IT교육 컨텐츠를 제공하는 교육사이트 (참고사이트 : 인프런)    
+>  고품질의 IT교육 컨텐츠를 제공하는 교육사이트 (참고사이트 : 인프런)    
 ![1](https://user-images.githubusercontent.com/101648395/186351569-35c71eda-e1ae-4b5f-85d9-0647551676db.png)
  
 ## SQL코드 <br>
@@ -43,7 +43,7 @@ chart.js를 사용해서 월별 매출을 그래프화하여 구현 했고, 구�
 + 관리자페이지 주요기능(2/4) <br>
 https://github.com/Hijineee/LearningMachine/blob/49771483e6f490ddfc9b92263a5131126cf4aa2f/src/main/java/com/learning/Admin/Controller/AdminController.java#L331
 
-가입한 학생리스트를 보여주고 상세정보 확인 가능한 페이지.
+>가입한 학생리스트를 보여주고 상세정보 확인 가능한 페이지.
 <br><br>
 ![image](https://user-images.githubusercontent.com/101648395/186361467-ff0ee0c5-fe17-4e9d-9265-7458b45b031e.png)<br>
 
@@ -56,7 +56,7 @@ https://github.com/Hijineee/LearningMachine/blob/49771483e6f490ddfc9b92263a51311
 https://github.com/Hijineee/LearningMachine/blob/559f3706da2092a96202fc1eb22e6e6899fb7064/src/main/java/com/learning/Admin/Controller/AdminController.java#L240 
 
 
-강사관리 페이지로서, 강사로 신청들어온 내역이 있다면 승인및 거부 를 처리하고 강사들이 올릴 강의를 승인 및 거부를 하는 페이지. <br><br><br>
+>강사관리 페이지로서, 강사로 신청들어온 내역이 있다면 승인및 거부 를 처리하고 강사들이 올릴 강의를 승인 및 거부를 하는 페이지. <br><br><br>
 	
 **강사신청내역 페이지** <br>
 ![image](https://user-images.githubusercontent.com/101648395/186366192-36e5f5b5-f451-4b4f-bb95-01543e8359b2.png) <br><br><br>
