@@ -84,7 +84,17 @@ https://github.com/Hijineee/LearningMachine/blob/5347bde42e49821ca32c889745463b9
 
 >Q&A게시판으로  강의 질문게시글을 카테고리별로 볼 수 있음.<br>
 ![image](https://user-images.githubusercontent.com/101648395/186374782-8411c50b-f9ef-432f-9678-5b18d86ee084.png)
->Q&A클릭 시 상세보기 화면 구현. <br>
+>Q&A클릭 시 상세보기 화면 구현. <br><br>
+
+![image](https://user-images.githubusercontent.com/101648395/186376485-e2ddc34f-3205-4ee2-8a2f-222c4e745981.png)
+>자유게시판 상세화면으로 로그인한 사람만 댓글을 달 수 있고, 쿠키를 이용한 조회수 증가 구현. <br><br>
+
+![image](https://user-images.githubusercontent.com/101648395/186377089-bca2384c-48ec-4d42-ae58-5f06a9ec93a0.png)
+>MyPage로 비밀번호 변경 및 닉네임 변경이 가능하다. 
+<br><br>
+
+![image](https://user-images.githubusercontent.com/101648395/186385343-6eec8a28-b8a4-46b5-be6d-e997c81df59f.png)
+>구매내역과 환불신청할 수 있는 페이지 입니다. 
 
 
 
