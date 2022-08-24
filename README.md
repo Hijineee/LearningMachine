@@ -2,7 +2,7 @@
 
 <h3> IT 교육 컨텐츠를 제공하는 웹 사이트</h3>
 <small>제작기간 : 2022.07.11 ~ 2022.08.01</small> <br>
-<small>역할 : 관리자페이지 구현, 커뮤니티 게시판 구현, My Page 구현
+<small>역할 : 관리자페이지 구현, 커뮤니티 게시판 구현, My Page 구현 </small><br>
 <small>개발자 : <a href = "https://github.com/IkhyeonAhn">안익현</a>, <a href="https://github.com/Hijineee">이희진</a>,  <a href = "https://github.com/skek3039">명재성</a>, <a href="https://github.com/Moonmaji">문형석</a>, <a href="https://github.com/ParkGuTy">박성균</a></small>
 <hr>
 - 개발 환경
@@ -65,4 +65,6 @@ https://github.com/Hijineee/LearningMachine/blob/559f3706da2092a96202fc1eb22e6e6
 ![image](https://user-images.githubusercontent.com/101648395/186370308-11545e34-b1aa-4de2-a0ec-7bd4f72d0647.png)
 >Ajax를 이용하여 카테고리 추가, 삭제 구현
 	
-
+<br><br><br><br><br>	
++ 관리자페이지 주요기능(4/4) <br>
+![image](https://user-images.githubusercontent.com/101648395/186370925-a07b3237-ede0-4d6d-b077-8fb90a8df163.png)
